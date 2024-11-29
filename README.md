@@ -47,4 +47,4 @@ Se debe crear un programa principal que permita validar los casos de uso estable
 
 **Link del diagrama para ver más claro**
 
-https://drive.google.com/file/d/1WnKVkikT2FHkUT9_u0Pv7kQjc8qsrlUT/view?usp=sharing
+
