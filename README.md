@@ -42,6 +42,7 @@ Se debe crear un programa principal que permita validar los casos de uso estable
 
 # Diagrama Visual Paradimg 
 
+![Captura de Pantalla 2024-11-29 a la(s) 10 27 54](https://github.com/user-attachments/assets/12c66cf7-e9df-443c-8036-5674ae1beaff)
 
 
 
